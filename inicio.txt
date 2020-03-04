@@ -1,0 +1,3 @@
+versao: 0.0.1
+
+aprendendo usar o git com o VSCODE
